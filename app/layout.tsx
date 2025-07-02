@@ -7,10 +7,14 @@ import { Header } from "@/components/header"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "whozaifa.co - Portfolio",
-  description: "Creative portfolio showcasing projects and work",
-    generator: 'v0.dev'
+   title: "Whozaifa",
+  description: "Professional portfolio website showcasing my work and services",
+    generator: 'Huzaifa_Syyd',
+    icons: {
+      icon: { url: '/favicon.jpg' }, // Or the path to your icon.png or other file
+    },
 }
+
 
 export default function RootLayout({
   children,
