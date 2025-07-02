@@ -165,7 +165,7 @@ export function Header() {
             {/* Mobile Menu Footer */}
             <div className="p-6 border-t border-gray-100 flex-shrink-0">
               <div className="text-center text-sm text-gray-500">
-                <p>© 2024 whozaifa.co</p>
+                <p>© 2025 whozaifa.co</p>
                 <p className="mt-1">Portfolio & Projects</p>
               </div>
             </div>
